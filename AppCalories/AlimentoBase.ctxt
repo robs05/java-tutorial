@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=AlimentoBase
+comment1.params=nome
+comment1.target=void\ setNome(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=kcal
+comment3.target=void\ setKcal(int)
+comment4.params=
+comment4.target=int\ getKcal()
+comment5.params=desc
+comment5.target=void\ setDesc(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getDesc()
+numComments=7
